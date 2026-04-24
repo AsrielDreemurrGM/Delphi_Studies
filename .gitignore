@@ -1,0 +1,11 @@
+*.dcu
+*.identcache
+*.local
+
+__history/
+**/__history/
+
+Win32/
+Win64/
+**/Win32/
+**/Win64/
